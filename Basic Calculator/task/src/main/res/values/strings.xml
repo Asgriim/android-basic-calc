@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="clear">CLEAR</string>
+</resources>
